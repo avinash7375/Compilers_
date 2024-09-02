@@ -1,0 +1,20 @@
+1. What is the di erence between a compiler and an interpreter?
+2. Describe some of the tasks that an assembler needs to per
+form.
+
+3. Figure 1.10: Blocks in a C++ program and it's working  Example 1.6
+
+
+4. Exercise 1.6.1: For the block-structured C code of Fig. 1.13(a), indicate the values assigned to w, x, y, and z
+
+
+ 5. Exercise 1.6.4: What is printed by the following C code?
+ #define a (x+1)
+ int x = 2;
+ void b() { x = a; printf("%d\n", x); }
+ void c() { int x = 1; printf("%d\n", a); }
+ void main() { b(); c(); }
+
+convert it into tree.
+
+
